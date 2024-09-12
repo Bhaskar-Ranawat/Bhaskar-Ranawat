@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Singh Ranawat</h1>
 <h3 align="center">A passionate full-stack MERN developer from India-Delhi</h3>
 
-<img align=“right” width=“400” src='https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg' alt=“coding” />
+<img align='right' width='400' src='https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg' alt="bhaskar-coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar-ranawat&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar-ranawat" /> </p>
 
